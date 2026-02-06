@@ -1,6 +1,8 @@
 """
+
 100 days of Python course
 DAY 8
+
 """
 
 # user defined function using the modulo for comparison
@@ -29,3 +31,4 @@ def prime_checker(number):
 # number is checked
 n = int(input("Check this number: "))
 prime_checker(number=n)
+
