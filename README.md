@@ -1,5 +1,3 @@
-after chenge in my computer
-
 # Area Calc
 
 
